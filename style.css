@@ -22,6 +22,7 @@ img {
     color: aqua;
     font-size: 50px;
     font-style: italic;
+    font-weight: bold;
   }
   #pic{
     width: 250px;
